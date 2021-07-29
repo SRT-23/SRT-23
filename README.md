@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SRT
+- 👋 Hi, I’m SRT
 - 👀 I’m interested in food and travel
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on front end projects
